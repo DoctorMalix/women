@@ -63,7 +63,9 @@ export default function Home() {
 
   <h1>Women Fragrances</h1>
   <p>
-  The world of women's fragrances is a captivating realm, where artistry and olfactory mastery intertwine to create scents that embody elegance, sensuality, and individuality. Each fragrance is a symphony of carefully curated notes, carefully blended to evoke a myriad of emotions and memories. From the light and floral to the deep and musky, women's fragrances offer a diverse palette that caters to every taste and occasion.
+  The world of women
+'s fragrances is a captivating realm, where artistry and olfactory mastery intertwine to create scents that embody elegance, sensuality, and individuality. Each fragrance is a symphony of carefully curated notes, carefully blended to evoke a myriad of emotions and memories. From the light and floral to the deep and musky, women
+'s fragrances offer a diverse palette that caters to every taste and occasion.
 
 The journey of selecting the perfect fragrance is a personal and intimate experience for many women. It goes beyond the mere act of wearing a scent; it becomes a reflection of one's identity and style. A woman's choice of fragrance is akin to selecting a signature, an invisible accessory that leaves a lasting impression. Whether it's the fresh notes of citrus and florals that accompany a vibrant daytime persona or the warm embrace of oriental spices for a night out, fragrances become an extension of the wearer's personality.
 
