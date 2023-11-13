@@ -1,4 +1,4 @@
-import Image from 'next/image'
+import Image from 'next/Image'
 
 export default function Home() {
   return (
@@ -16,32 +16,32 @@ export default function Home() {
 <div className="py-10 flex gam-6 flex-wrap gap-6 justify-center"> 
 
   <div className="order-last bg-pink-200   rounded-2xl shadow-2xl hover:bg-pink-400 transition-all duration-1000">
-      <img src= "perfume.webp"  className="profile-img center py-3 px-3 flex-auto rounded-2xl h-40 w-40"></img>
+      <Image src= "/perfume.webp"   alt="" width="200" height="200" className="profile-image center py-3 px-3 flex-auto rounded-2xl h-40 w-40"></Image>
       <span className="px-5  py-5 bg-blue-900 font-bold text-center text-lg bg-clip-text text-transparent text-clip text- ">  CSS Flex & Grid</span>
   </div>    
 
   <div className="order-last bg-pink-200   rounded-2xl shadow-2xl hover:bg-pink-400 transition-all duration-1000">
-      <img src= "perfumeJ.webp"  className="profile-img center py-3 px-3 flex-auto rounded-2xl h-40 w-40"></img>
+      <Image src= "/perfumeJ.webp"  alt="" width="200" height="200"  className="profile-image center py-3 px-3 flex-auto rounded-2xl h-40 w-40"></Image>
       <span className="px-5  py-5 bg-blue-900 font-bold text-center text-lg bg-clip-text text-transparent text-clip text- ">  CSS Flex & Grid</span>
   </div>
 
   <div className="order-last bg-pink-200   rounded-2xl shadow-2xl hover:bg-pink-400 transition-all duration-1000">
-      <img src= "perfume2.jpeg"  className="profile-img center py-3 px-3 flex-auto rounded-2xl h-40 w-40"></img>
+      <Image src= "/perfume2.jpeg" alt=""  width="200" height="200" className="profile-image center py-3 px-3 flex-auto rounded-2xl h-40 w-40"></Image>
       <span className="px-5  py-5 bg-blue-900 font-bold text-center text-lg bg-clip-text text-transparent text-clip text- ">  CSS Flex & Grid</span>
   </div>
 
   <div className="order-last bg-pink-200   rounded-2xl shadow-2xl hover:bg-pink-400 transition-all duration-1000">
-      <img src= "perfume3.jpeg"  className="profile-img center py-3 px-3 flex-auto rounded-2xl h-40 w-40"></img>
+      <Image src="/perfume3.jpeg"  alt=""   width="200" height="200" className="profile-image center py-3 px-3 flex-auto rounded-2xl h-40 w-40"></Image>
       <span className="px-5  py-5 bg-blue-900 font-bold text-center text-lg bg-clip-text text-transparent text-clip text- ">  CSS Flex & Grid</span>
   </div>
 
   <div className="order-last bg-pink-200   rounded-2xl shadow-2xl hover:bg-pink-400 transition-all duration-1000">
-      <img src= "perfume4.jpeg"  className="profile-img center py-3 px-3 flex-auto rounded-2xl h-40 w-40"></img>
+      <Image src= "/perfume4.jpeg"  alt=""  width="200" height="200" className="profile-image center py-3 px-3 flex-auto rounded-2xl h-40 w-40"></Image>
       <span className="px-5  py-5 bg-blue-900 font-bold text-center text-lg bg-clip-text text-transparent text-clip text- ">  CSS Flex & Grid</span>
   </div>
 
   <div className="order-last bg-pink-200   rounded-2xl shadow-2xl hover:bg-pink-400 transition-all duration-1000">
-      <img src= "perfume4.webp"  className="profile-img center py-3 px-3 flex-auto rounded-2xl h-40 w-40"></img>
+      <Image src= "/perfume4.webp"  alt="" width="200" height="200" className="profile-image center py-3 px-3 flex-auto rounded-2xl h-40 w-40"></Image>
       <span className="px-5  py-5 bg-blue-900 font-bold text-center text-lg bg-clip-text text-transparent text-clip text- ">  CSS Flex & Grid</span>
   </div>
 
