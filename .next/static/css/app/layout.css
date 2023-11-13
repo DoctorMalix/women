@@ -694,8 +694,17 @@ body {
   .main h1{
        font-size: 40px;
        color: purple;
-       text-shadow: 2px 2px 5px red;
+       /* text-shadow: 2px 2px 5px red; */
+       text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
   }
+
+  .main h3{
+    font-size: 20px;
+    color: purple;
+    text-align:center;
+    /* text-shadow: 2px 2px 5px red; */
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
   
   .main p{
       font-size: 18px;

@@ -17,32 +17,32 @@ export default function Home() {
 
   <div className="order-last bg-pink-200   rounded-2xl shadow-2xl hover:bg-pink-400 transition-all duration-1000">
       <Image src= "/perfume.webp"   alt="" width="200" height="200" className="profile-image center py-3 px-3 flex-auto rounded-2xl h-40 w-40"></Image>
-      <span className="px-10  py-5 bg-red-500 font-bold text-center text-lg bg-clip-text text-transparent text-clip text- ">ALLURI</span>
+      <h3>ALLURI</h3>
   </div>    
 
   <div className="order-last bg-pink-200   rounded-2xl shadow-2xl hover:bg-pink-400 transition-all duration-1000">
       <Image src= "/perfumeJ.webp"  alt="" width="200" height="200"  className="profile-image center py-3 px-3 flex-auto rounded-2xl h-40 w-40"></Image>
-      <span className="px-10  py-5 bg-red-500 font-bold text-center text-lg bg-clip-text text-transparent text-clip text- "> POEM</span>
+      <h3>POEM</h3>
   </div>
 
   <div className="order-last bg-pink-200   rounded-2xl shadow-2xl hover:bg-pink-400 transition-all duration-1000">
       <Image src= "/perfume2.jpeg" alt=""  width="200" height="200" className="profile-image center py-3 px-3 flex-auto rounded-2xl h-40 w-40"></Image>
-      <span className="px-10  py-5 bg-red-500 font-bold text-center text-lg bg-clip-text  text-transparent text-clip text- ">CHANNEL</span>
+      <h3>CHANNEL</h3>
   </div>
 
   <div className="order-last bg-pink-200   rounded-2xl shadow-2xl hover:bg-pink-400 transition-all duration-1000">
       <Image src="/perfume3.jpeg"  alt=""   width="200" height="200" className="profile-image center py-3 px-3 flex-auto rounded-2xl h-40 w-40"></Image>
-      <span className="px-10  py-5 bg-red-500 font-bold text-center text-lg bg-clip-text text-transparent text-clip text- ">PARTY GIRL</span>
+      <h3>ARTY</h3>
   </div>
 
   <div className="order-last bg-pink-200   rounded-2xl shadow-2xl hover:bg-pink-400 transition-all duration-1000">
       <Image src= "/perfume4.jpeg"  alt=""  width="200" height="200" className="profile-image center py-3 px-3 flex-auto rounded-2xl h-40 w-40"></Image>
-      <span className="px-5  py-5 bg-red-500 font-bold text-center text-lg bg-clip-text text-transparent text-clip text- ">VALENTINES DAY</span>
+      <h3>VALENTINES DAY</h3>
   </div>
 
   <div className="order-last bg-pink-200   rounded-2xl shadow-2xl hover:bg-pink-400 transition-all duration-1000">
       <Image src= "/perfume4.webp"  alt="" width="200" height="200" className="w-auto profile-image center py-3 px-3 flex-auto rounded-2xl h-40"></Image>
-      <span className="px-10  py-5 bg-red-500 font-bold text-lg bg-clip-text text-transparent text-center">BLOOM</span>
+      <h3>BLOOM</h3>
   </div>
 
 
@@ -63,8 +63,7 @@ export default function Home() {
 
   <h1>Women Fragrances</h1>
   <p>
-  The world of women
-s fragrances is a captivating realm, where artistry and olfactory mastery intertwine to create scents that embody elegance, sensuality, and individuality. Each fragrance is a symphony of carefully curated notes, carefully blended to evoke a myriad of emotions and memories. From the light and floral to the deep and musky, women
+  The world of womens fragrances is a captivating realm, where artistry and olfactory mastery intertwine to create scents that embody elegance, sensuality, and individuality. Each fragrance is a symphony of carefully curated notes, carefully blended to evoke a myriad of emotions and memories. From the light and floral to the deep and musky, women
 s fragrances offer a diverse palette that caters to every taste and occasion.
 
 The journey of selecting the perfect fragrance is a personal and intimate experience for many women. It goes beyond the mere act of wearing a scent; it becomes a reflection of ones identity and style. A womans choice of fragrance is akin to selecting a signature, an invisible accessory that leaves a lasting impression. Whether its the fresh notes of citrus and florals that accompany a vibrant daytime persona or the warm embrace of oriental spices for a night out, fragrances become an extension of the wearers personality.
