@@ -17,32 +17,32 @@ export default function Home() {
 
   <div className="order-last bg-pink-200   rounded-2xl shadow-2xl hover:bg-pink-400 transition-all duration-1000">
       <Image src= "/perfume.webp"   alt="" width="200" height="200" className="profile-image center py-3 px-3 flex-auto rounded-2xl h-40 w-40"></Image>
-      <span className="px-5  py-5 bg-blue-900 font-bold text-center text-lg bg-clip-text text-transparent text-clip text- ">  CSS Flex & Grid</span>
+      <span className="px-10  py-5 bg-red-500 font-bold text-center text-lg bg-clip-text text-transparent text-clip text- ">ALLURI</span>
   </div>    
 
   <div className="order-last bg-pink-200   rounded-2xl shadow-2xl hover:bg-pink-400 transition-all duration-1000">
       <Image src= "/perfumeJ.webp"  alt="" width="200" height="200"  className="profile-image center py-3 px-3 flex-auto rounded-2xl h-40 w-40"></Image>
-      <span className="px-5  py-5 bg-blue-900 font-bold text-center text-lg bg-clip-text text-transparent text-clip text- ">  CSS Flex & Grid</span>
+      <span className="px-10  py-5 bg-red-500 font-bold text-center text-lg bg-clip-text text-transparent text-clip text- "> POEM</span>
   </div>
 
   <div className="order-last bg-pink-200   rounded-2xl shadow-2xl hover:bg-pink-400 transition-all duration-1000">
       <Image src= "/perfume2.jpeg" alt=""  width="200" height="200" className="profile-image center py-3 px-3 flex-auto rounded-2xl h-40 w-40"></Image>
-      <span className="px-5  py-5 bg-blue-900 font-bold text-center text-lg bg-clip-text text-transparent text-clip text- ">  CSS Flex & Grid</span>
+      <span className="px-10  py-5 bg-red-500 font-bold text-center text-lg bg-clip-text  text-transparent text-clip text- ">CHANNEL</span>
   </div>
 
   <div className="order-last bg-pink-200   rounded-2xl shadow-2xl hover:bg-pink-400 transition-all duration-1000">
       <Image src="/perfume3.jpeg"  alt=""   width="200" height="200" className="profile-image center py-3 px-3 flex-auto rounded-2xl h-40 w-40"></Image>
-      <span className="px-5  py-5 bg-blue-900 font-bold text-center text-lg bg-clip-text text-transparent text-clip text- ">  CSS Flex & Grid</span>
+      <span className="px-10  py-5 bg-red-500 font-bold text-center text-lg bg-clip-text text-transparent text-clip text- ">PARTY GIRL</span>
   </div>
 
   <div className="order-last bg-pink-200   rounded-2xl shadow-2xl hover:bg-pink-400 transition-all duration-1000">
       <Image src= "/perfume4.jpeg"  alt=""  width="200" height="200" className="profile-image center py-3 px-3 flex-auto rounded-2xl h-40 w-40"></Image>
-      <span className="px-5  py-5 bg-blue-900 font-bold text-center text-lg bg-clip-text text-transparent text-clip text- ">  CSS Flex & Grid</span>
+      <span className="px-5  py-5 bg-red-500 font-bold text-center text-lg bg-clip-text text-transparent text-clip text- ">VALENTINES DAY</span>
   </div>
 
   <div className="order-last bg-pink-200   rounded-2xl shadow-2xl hover:bg-pink-400 transition-all duration-1000">
-      <Image src= "/perfume4.webp"  alt="" width="200" height="200" className="profile-image center py-3 px-3 flex-auto rounded-2xl h-40 w-40"></Image>
-      <span className="px-5  py-5 bg-blue-900 font-bold text-center text-lg bg-clip-text text-transparent text-clip text- ">  CSS Flex & Grid</span>
+      <Image src= "/perfume4.webp"  alt="" width="200" height="200" className="w-auto profile-image center py-3 px-3 flex-auto rounded-2xl h-40"></Image>
+      <span className="px-10  py-5 bg-red-500 font-bold text-lg bg-clip-text text-transparent text-center">BLOOM</span>
   </div>
 
 
